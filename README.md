@@ -1,2 +1,2 @@
-# BusTimetableBookingSystem
-a simple bus timetable bokking system in C programming language.
+# Bus Timetable Booking System
+a simple bus timetable booking system in C programming language.
